@@ -9,14 +9,13 @@
            into the matching lines below → commit this file on GitHub.
    ==================================================================== */
 window.APMA_FIREBASE_CONFIG={
-  apiKey:            "PASTE_API_KEY_HERE",
-  authDomain:        "PASTE_PROJECT_ID.firebaseapp.com",
-  projectId:         "PASTE_PROJECT_ID",
-  storageBucket:     "PASTE_PROJECT_ID.appspot.com",
-  messagingSenderId: "0",
-  appId:             "PASTE_APP_ID"
+  apiKey:            "AIzaSyDD0fe-lTlcL_7mGCW9ddZCxoIelhMvs_M",
+  authDomain:        "coingame-d70e7.firebaseapp.com",
+  projectId:         "coingame-d70e7",
+  storageBucket:     "coingame-d70e7.firebasestorage.app",
+  messagingSenderId: "366305420388",
+  appId:             "1:366305420388:web:9a7ee7148d66c5a66f6b71"
 };
 
-/* Your host key — type it once on the #host view to unlock host controls.
-   Change it to anything you like before the event. */
+/* Host key — type it once on the #host view to unlock host controls */
 window.APMA_HOST_KEY="apma2026";
